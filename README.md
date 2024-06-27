@@ -23,7 +23,7 @@ Run the following [Composer](https://getcomposer.org/) commands to install depen
 To run the test sample, run the following command
 
 ```bash
-  ./vendor/bin/phpunit tests/test-sample.php
+  ./vendor/bin/phpunit tests/SampleTest.php
 ```
 
 **Tests implemetation is upcoming...**
