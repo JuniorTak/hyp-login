@@ -20,8 +20,10 @@ Run the following [Composer](https://getcomposer.org/) commands to install depen
   composer require --dev yoast/phpunit-polyfills
 ```
 
-To run tests, run the following command
+To run the test sample, run the following command
 
 ```bash
-  ./vendor/bin/phpunit tests/*
+  ./vendor/bin/phpunit tests/test-sample.php
 ```
+
+**Tests implemetation is upcoming...**
