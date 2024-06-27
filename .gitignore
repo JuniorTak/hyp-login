@@ -7,7 +7,6 @@
 /bin/install-wp-tests.sh
 /.circleci/config.yml
 /tests/bootstrap.php
-/tests/test-sample.php
 
 ### Dependencies ###
 /vendor/
