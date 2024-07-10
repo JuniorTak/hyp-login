@@ -19,6 +19,7 @@
 
 # Generated files
 .phpunit.cache
+.phpunit.result.cache
 
 # PHPUnit
 /app/phpunit.xml
